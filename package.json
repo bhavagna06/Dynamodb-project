@@ -1,0 +1,11 @@
+{
+  "name": "registration-app",
+  "version": "1.0.0",
+  "description": "Simple registration form storing data in DynamoDB",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.1500.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
